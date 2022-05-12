@@ -6,7 +6,9 @@ In this project I have created a sentence similarity score calculator which take
 
 The Algorithm is ready to be deployed as a API server endpoint where the Request and Response body should be in the following format:
 
-Request body: {“text1”: ”I am new here but .......”, ”text2”: ”The movie released recently and ......”} Response body: {“similarity score”: 0.6 }
+Request body: {“text1”: ”I am new here but .......”, ”text2”: ”The movie released recently and ......”} 
+Response body: {“similarity score”: 0.6 }
+
 Note: “text1”, “text2”, and “similarity score” keys should be kept as it is, without any change.
 
 Due to large size of the word2vec model, the model could not be deployed at heroku.
