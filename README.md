@@ -1,5 +1,9 @@
 # About
 
+[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+
+[![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
 In this project I have created a sentence similarity score calculator which takes two sentences as input and shows their corresponding similarity score which shows show similar the sentences are. The more close to 1 the score is the more similar the sentences are, the close to 0 the score is the more dissilimar the sentences are.
 
 # Information on API call
